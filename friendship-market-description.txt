@@ -1,0 +1,36 @@
+FRIENDSHIP MARKET - Aplicativo
+
+Fundamentos/Resumo
+
+Considerando os dados levantados sobre os meios de propagação do coronavírus, seja  por artigos, sites, jornais, revistas, programas de Tv, rádio etc. o aplicativo se baseia na ideia de compartilhamento, de modo que uma compra seria feita por uma pessoa, o que causaria aglomeração, pode ser feita por um Voluntário em local e horário compatível com os solicitantes. Os estabelecimentos e os usuários são cadastrados, o pagamento é feito antecipadamente por meio de serviço de pagamento online entre empresa e consumidor. A ideia é que uma pessoa que necessita fazer suas compras e tem um caminho de viagem até o estabelecimento parecido com as solicitantes, realize essas entregas de forma voluntária, permitindo que nem todas as pessoas tenham de sair de casa.
+
+Funcionamento
+Termos: 
+Consumidor: aquele que opta por ficar em casa e solicita um Voluntário para realizar suas compras.
+Voluntário: aquele que irá realizar suas próprias compras e que voluntaria-se para realizar as compras do consumidor. 
+Podemos dividir o funcionamento e um sistema de etapas, constando: cadastro,
+validação, localização, pedido,  confirmação, entrega.
+● Cadastro: aqui o mercado/pessoa entra com seus dados passa a ter sua localização constando nos cálculos de rota. Ao se cadastrar a pessoa pode ser tanto Voluntário como Consumidor. 
+● Validação: o cadastro é verificado, quanto a existência da pessoa física/pessoa jurídica e confiabilidade.
+● Localização: Os supermercados inserem sua localização e horário de funcionamento, já as pessoas inserem a local de sua residência para assim ficar visível a aos voluntários.
+● Pedido: O Consumidor que não desejar ser Voluntário faz a sua lista de compra e deixa a disposição no aplicativo, sendo possível configurar um período em que fica disponível o pedido, assim quando um voluntário estiver à disposição ele se encarregar de suas compras.
+● Confirmação da compra: Quando a compra é concluída o mercado confirma no aplicativo e o Consumidor recebe um aviso  também no aplicativo que sua compra foi realizada. A segunda confirmação pode se dar pela entrega da nota fiscal ao Consumidor por meio eletrônico (a desenvolver).
+● Entrega: nessa fase o voluntário se desloca e demonstra o comprovante de pedido, seu progresso é acompanhado em tempo real por GPS pelos usuário que solicitou a entrega.
+O Consumidor acompanhará em tempo real a realização da compra assim que o Voluntário se candidatar para realizá-la, desde a ida e vinda do mercado.
+
+Vantagens
+
+Voluntário tem seu desempenho avaliado, pela qualidade de suas entregas.
+O Voluntário poderá receber benefícios referente ao mercado/aplicativo cada vez que for Voluntário (a desenvolver).
+Economia para o Consumidor, já que não terá gastos com transporte.
+Aumentará o número de clientes ao mercado, pois além do voluntário o consumidor será alguém a mais para consumir. 
+Pode ser utilizado por outras organizações humanitárias com mesmo fim.
+Contribui para a diminuição da circulação de pessoas na rua, contribuído para mitigar a propagação do coronavírus.
+Entrega sem contato
+
+Situação Exemplo
+    Clara mora nas proximidades da avenida da torres, no conjunto João Paulo. Ela precisa ir até o DB Cidade Nova realizar as compras semanais já que seu estoque de comida está acabando, devido ao Coronavírus é imprescindível que ela saia de casa o mínimo de vezes possível. Antes de sair de casa, ela recebe uma mensagem de seu amigo Samuel que fala a ela sobre um aplicativo que utilizou para receber suas compras sem sair de casa.
+
+Ela baixa o aplicativo e insere sua localização escolhendo o mercado e sua cesta de compras. O seu pedido é enviado para o sistema, que localiza um voluntário mais próximo de sua residência, se este voluntário está disponível e  se voluntariou para o mercado em questão, ele aceita o pedido. Nesse momento um comprovante é enviado para o responsável no mercado, com os dados de contato do comprador, enviando a cobrança por email. No momento que o voluntário aceita realizar a entrega ele deve permitir ser monitorado pelo GPS durante todo o trajeto até o recebimento.
+Assim que a pessoa confirma o pagamento, a cesta é liberada e entregue quando o voluntário se apresenta para recebê-la, mostrando seu comprovante por meio do aplicativo. Ele se encaminha para a residência, a pessoa recebe o pedido, e confirma no app, que envia uma confirmação para o mercado e inicia a avaliação do voluntário. 
+
